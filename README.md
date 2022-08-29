@@ -11,9 +11,6 @@
 
 - ⚡ Fifa **hastasıyım**
 
-# 💫 About Me:
-Yıldız Teknik Üniversitesi BÖTE bölümünde 2. sınıf öğrencisiyim.<br>AffinityBox şirketinde yazılım geliştirici olarak çalışıyorum.<br>Şuanda .NET Core 6.0 öğrenmekteyim.<br>C# veya SQL hakkında sorularınız varsa sorabilirsiniz.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yigitcanolmez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yigitcanolmez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yigit_olmezz) 
