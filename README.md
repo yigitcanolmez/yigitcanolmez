@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba👋,ben Yiğitcan Ölmez</h1>
 <h3 align="center">AffinityBox şirketinde Yazılım Geliştiricisiyim.</h3>
 
-- 🔭 Şuanda Protein projesi üzerinde **çalışıyorum**
+- 🔭 Şuanda Sözlük projesi üzerinde **çalışıyorum**
 
 - 🌱 Şuan.NET Core 6.0 **öğrenmekteyim**
 
