@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET CORE 6.0**
 
-- 📝 I regularly write articles on [github.com/yigitcanolmez](github.com/yigitcanolmez)
+
 
 - 💬 Ask me about **.NET, C#, SQL**
 
