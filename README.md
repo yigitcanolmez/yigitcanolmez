@@ -21,9 +21,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitcanolmez&" alt="yigitcanolmez" /></p>
 
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=yigitcanolmez&icon=4&color=6)](https://visitcount.itsvg.in)
 
