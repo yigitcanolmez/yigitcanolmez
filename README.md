@@ -3,17 +3,7 @@
 <br> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yigitcanolmez" alt="yigitcanolmez" /></a> </p>
 
-- 🔭 I’m currently working on **BlazorSozluk**
 
-- 🌱 I’m currently learning **.NET CORE 6.0**
-
-
-
-- 💬 Ask me about **.NET, C#, SQL**
-
-- 📫 How to reach me **yigitcanolmez@outlook.com**
-
-- ⚡ Fun fact **I think I'm very good at FIFA22**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
