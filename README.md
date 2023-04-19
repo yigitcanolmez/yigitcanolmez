@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yigitcanolmez@outlook.com**
 
-- ⚡ Fun fact **Monkey See Monkey Does 🙈 🙉 🙊 -TMA**
+- ⚡ **Monkey See Monkey Does 🙈 🙉 🙊 -TMA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
