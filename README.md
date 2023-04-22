@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yiğitcan Ölmez</h1>
 <h3 align="center">Junior Software Developer</h3>
+<center>
 
 - 🌱 I’m currently learning **SWIFT, .NET CORE / CQRS**
 
@@ -8,6 +9,8 @@
 - 📫 How to reach me **yigitcanolmez@outlook.com**
 
 - ⚡ **Monkey See Monkey Does 🙈 🙉 🙊 -TMA**
+  
+  </center>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
