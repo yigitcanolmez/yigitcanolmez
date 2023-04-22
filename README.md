@@ -10,6 +10,7 @@
 - ⚡ **Monkey See Monkey Does 🙈 🙉 🙊 -TMA**
 
 <h3 align="left">Connect with me:</h3>
+<center>
 <p align="left">
 <a href="https://linkedin.com/in/yigitcanolmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigitcanolmez" height="30" width="40" /></a>
 </p>
@@ -25,4 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yigitcanolmez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitcanolmez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+  <center>
 
