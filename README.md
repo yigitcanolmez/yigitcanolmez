@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitcanolmez&label=Profile%20views&color=84a3b8&style=flat" alt="yigitcanolmez" /> </p>
 
-- 🔭 I’m currently working on [Udemy Backend](https://github.com/yigitcanolmez/CourseMicroservice)
-
-- 🌱 I’m currently learning **.NET Core / REDIS / RabbitMQ / MongoDB /**
-
 - 📝 I will write articles about .NET you can follow from : [https://medium.com/@yigitcanolmez](https://medium.com/@yigitcanolmez)
 
 - 📫 How to reach me **yigitcanolmez@outlook.com**
