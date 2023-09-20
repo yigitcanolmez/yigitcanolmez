@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğitcan Ölmez</h1>
+<h1 align="center">Hi there! I'm Yiğitcan Ölmez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitcanolmez&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcanolmez" /> </p>
 
 
