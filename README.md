@@ -7,6 +7,7 @@
 - 📝 I regularly write articles on [https://medium.com/@yigitcanolmez](https://medium.com/@yigitcanolmez)
 
 - 📫 How to reach me **yigitcanolmez@outlook.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
