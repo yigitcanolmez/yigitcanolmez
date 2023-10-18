@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitcanolmez&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcanolmez" /> </p>
 
 
-- 🌱 I’m currently learning **.NET Core and C# Programming Language**
+- 🌱 I’m currently learning **.NET**
 
 - 📝 I regularly write articles on [https://medium.com/@yigitcanolmez](https://medium.com/@yigitcanolmez)
 
