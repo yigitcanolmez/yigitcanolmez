@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET | Vue | DevOps**
 
-- 📝 I regularly write articles on [https://medium.com/@yigitcanolmez](https://medium.com/@yigitcanolmez)
+- 📝 I regularly write articles on [medium](https://medium.com/@yigitcanolmez)
 
 - 📫 How to reach me **yigitcanolmez@outlook.com**
 
