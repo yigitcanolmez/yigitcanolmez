@@ -2,7 +2,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hq6oipxwewhfegi1l23pckew6&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hq6oipxwewhfegi1l23pckew6&redirect=true)
 
-[Aylık Öneri :)](https://open.spotify.com/playlist/534Hc6WHTkV3dDUAByX4M2?si=e6fe30dcacb64fde)
+[Aylık Playlist Önerisi :)](https://open.spotify.com/playlist/534Hc6WHTkV3dDUAByX4M2?si=e6fe30dcacb64fde)
 
 - 🔭 I’m currently working on **EuroMessage**
 
