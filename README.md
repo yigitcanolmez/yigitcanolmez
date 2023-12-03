@@ -3,8 +3,6 @@
 <div style="text-align: center;">
   <a href="https://open.spotify.com/playlist/534Hc6WHTkV3dDUAByX4M2?si=e6fe30dcacb64fde" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=hq6oipxwewhfegi1l23pckew6&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=09ff00&bar_color_cover=false" alt="Spotify Profile Card">
-    <br>
-    Aylık Playlist Önerisi :)
   </a>
 </div>
 
