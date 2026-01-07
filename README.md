@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yiğitcan Ölmez</h1>
-<h3 align="center">Software Engineer • AI-Driven Systems • Product-Minded Developer</h3>
+<h3 align="center">Software Developer • AI-Driven Systems • Product-Minded Developer</h3>
 
 <p align="center">
 I build <b>intelligent developer tools</b>, <b>AI-powered systems</b>, and <b>scalable backends</b> that don’t just analyze — they <b>act</b>.
