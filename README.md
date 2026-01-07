@@ -7,6 +7,10 @@ I build <b>intelligent developer tools</b>, <b>AI-powered systems</b>, and <b>sc
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=120&lines=Building+intelligent+agents.;Autonomous+code+resolvers.;Engineering+with+intent.)
+
+---
+
 ### 🚀 What I’m Working On
 - 🔭 Building **AI-driven engines** for code analysis, issue resolution, and automated PR workflows  
 - 🤖 Designing **agent-based systems** that reason, decide, and apply changes autonomously  
