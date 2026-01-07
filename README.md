@@ -1,23 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yiğitcan Ölmez</h1>
+<h1 align="center">👋 Hi, I'm Yiğitcan Ölmez</h1>
+<h3 align="center">Software Engineer • AI-Driven Systems • Product-Minded Developer</h3>
 
-- 🔭 I’m currently working on **EuroMessage**
-
-- 🌱 I’m currently learning **.NET | Vue | DevOps**
-
-- 📝 I regularly write articles on [medium](https://medium.com/@yigitcanolmez)
-
-- 📫 How to reach me **yigitcanolmez@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yigitcanolmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigitcanolmez" height="30" width="40" /></a>
-<a href="https://medium.com/@yigitcanolmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigitcanolmez" height="30" width="40" /></a>
+<p align="center">
+I build <b>intelligent developer tools</b>, <b>AI-powered systems</b>, and <b>scalable backends</b> that don’t just analyze — they <b>act</b>.
 </p>
 
+---
 
-<div align="center" style="text-align: center; margin: 0 auto; text-shadow: 0px 0px 10px rgba(255,255,255,0.5);">
-  <a href="https://open.spotify.com/playlist/6pXwoU4OtcIacLwm4Gwc8H?si=8ac22837c01f4512&nd=1&dlsi=f1b08d6746f74724" target="_blank" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://i.scdn.co/image/ab67706c0000da84fe51e943c73b08e66c697592" style="margin-right: 10px;">
+### 🚀 What I’m Working On
+- 🔭 Building **AI-driven engines** for code analysis, issue resolution, and automated PR workflows  
+- 🤖 Designing **agent-based systems** that reason, decide, and apply changes autonomously  
+- 🧠 Exploring **LLM-powered developer productivity** and SDLC automation  
+
+---
+
+### 🌱 Currently Exploring
+- **.NET & C# (advanced architecture & performance)**
+- **AI Agents, Tool Calling & RAG pipelines**
+  
+---
+
+### ✍️ Writing & Sharing
+- 📝 I regularly write about **AI, software architecture, and engineering practices**  
+  on **Medium** → <a href="https://medium.com/@yigitcanolmez" target="_blank">medium.com/@yigitcanolmez</a>
+
+---
+
+### 📫 Get in Touch
+- 📧 **yigitcanolmez@outlook.com**
+- 💼 LinkedIn → <a href="https://linkedin.com/in/yigitcanolmez" target="_blank">linkedin.com/in/yigitcanolmez</a>
+
+---
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/yigitcanolmez" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-</div>
+  <a href="https://medium.com/@yigitcanolmez" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  </a>
+</p>
 
+---
+
+<p align="center"><i>Code. Think. Repeat.</i></p>
